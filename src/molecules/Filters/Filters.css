@@ -1,0 +1,9 @@
+.filters {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 20px 0;
+  align-self: stretch;
+  align-items: center;
+  gap: 24px;
+}

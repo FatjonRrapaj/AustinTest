@@ -1,0 +1,33 @@
+{
+  "projectStatusOptions": [
+    { "label": "In Progress", "value": "in_progress" },
+    { "label": "Completed", "value": "completed" },
+    { "label": "Cancelled", "value": "cancelled" },
+    { "label": "On Hold", "value": "on_hold" }
+  ],
+  "investmentTypeOptions": [
+    { "label": "Equity", "value": "equity" },
+    { "label": "Debt", "value": "debt" },
+    { "label": "Convertible Note", "value": "convertible_note" }
+  ],
+  "industryOptions": [
+    { "label": "Technology", "value": "technology" },
+    { "label": "Finance", "value": "finance" },
+    { "label": "Healthcare", "value": "healthcare" },
+    { "label": "Energy", "value": "energy" },
+    { "label": "Hospitality", "value": "hospitality" },
+    { "label": "Education", "value": "education" },
+    { "label": "Other", "value": "other" }
+  ],
+  "countryOptions": [
+    { "label": "United States", "value": "us" },
+    { "label": "United Kingdom", "value": "uk" },
+    { "label": "Canada", "value": "ca" },
+    { "label": "Germany", "value": "de" },
+    { "label": "Australia", "value": "au" },
+    { "label": "India", "value": "in" },
+    { "label": "Japan", "value": "jp" },
+    { "label": "China", "value": "cn" },
+    { "label": "Other", "value": "other" }
+  ]
+}

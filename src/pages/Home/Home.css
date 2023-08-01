@@ -1,0 +1,17 @@
+.home {
+  width: 100vw;
+  height: 100vh;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
